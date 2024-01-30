@@ -1,1 +1,0 @@
-data = "Rendy Putra Pratama"

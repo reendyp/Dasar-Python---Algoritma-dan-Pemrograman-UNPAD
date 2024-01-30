@@ -1,1 +1,0 @@
-print(f"nilai __name__ pada main_app.py = {__name__}")
